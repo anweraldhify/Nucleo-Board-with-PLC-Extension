@@ -6,19 +6,22 @@
 •	The development environment for this project is Keil IDE. 
 •	 An implementation for a traffic light application will be run to check the feasibility of the method.
 
-![](/result.png)
 
 ## NUCLEO-F446RE schematic:
-![](/NUCLEO-F446RE schematic.png)
+![](/NUCLEO-F446RE%20schematic.png)
+
 
 ## X-NUCLEO-PLC01A1 schematic:
-![](/X-NUCLEO-PLC01A1 schematic.JPG)
+![](/X-NUCLEO-PLC01A1%20schematic.JPG)
+
 
 ## Traffic light application:
 ![](/trafficLight.jpg)
 
+
 ## Results on the harsware setup:
 ![](/Results.jpeg)
+
 
 ## Reference
 [1] UM1918 User manual: Getting started with the X-NUCLEO-PLC01A1 industrial input/output expansion board for STM32 Nucleo, (2015), STMicroelectronics, https://www.st.com/resource/en/user_manual/dm00213568-getting-started-with-the-xnucleoplc01a1-industrial-inputoutput-expansion-board-for-stm32-nucleo-stmicroelectronics.pdf
