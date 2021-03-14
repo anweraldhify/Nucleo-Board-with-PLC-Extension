@@ -5,6 +5,7 @@
 •	The expansion board used for making this possible is the X-NUCLEO-PLC01A1. 
 •	The development environment for this project is Keil IDE. 
 •	 An implementation for a traffic light application will be run to check the feasibility of the method.
+•	 The X-CUBE-PLC1 software offered by STMicroelectronics will be used to give us a quick start in the project.
 
 
 ## NUCLEO-F446RE schematic:
